@@ -1,0 +1,11 @@
+{
+  "name": "thoska-boy",
+  "private": true,
+  "version": "1.2.0",
+  "scripts": {
+    "dev": "npm --prefix thoska-website run dev",
+    "build": "npm --prefix thoska-website run build",
+    "preview": "npm --prefix thoska-website run preview"
+  }
+}
+
