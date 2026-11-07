@@ -1,7 +1,0 @@
-{
-  "buildCommand": "npm --prefix thoska-website run build",
-  "outputDirectory": "thoska-website/dist",
-  "installCommand": "npm --prefix thoska-website install",
-  "framework": "vite"
-}
-
